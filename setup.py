@@ -18,8 +18,7 @@ requirements = [
     "pydantic",
     "censusdata",
     "seaborn",
-    "maup<=1.1.0",
-    "docker"
+    "maup<=1.1.0"
 ]
 
 # Set the version --- ensure that the latest tag matches this value.
