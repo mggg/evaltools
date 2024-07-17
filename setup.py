@@ -19,6 +19,7 @@ requirements = [
     "censusdata",
     "seaborn",
     "maup<=1.1.0",
+    "docker"
 ]
 
 # Set the version --- ensure that the latest tag matches this value.
